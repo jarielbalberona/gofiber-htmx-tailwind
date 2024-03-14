@@ -3,7 +3,7 @@
  <img height=200px src="https://i.imgur.com/0XBaixk.png" alt="Idea generation logo"></a>
 </p>
 
-<h3 align="center"> Idea Generation</h3>
+<h3 align="center">Lorem ipsum</h3>
 
 <p align="center"> Few lines describing your project.
     <br> 

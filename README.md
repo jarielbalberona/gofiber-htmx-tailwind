@@ -11,7 +11,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Experience Digital's internal project.
+Lorem ipsum
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -48,10 +48,6 @@ Add additional notes about how to deploy this on a live system.
 - GORM
 - Postgres
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors <a name = "author"></a>
 
 - [Jariel](https://github.com/jarielbalberona)
-- Lee
-- Pat
-- Harold
-- Nichole
